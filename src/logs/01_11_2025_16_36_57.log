@@ -1,0 +1,2 @@
+[2025-01-11 16:36:57,803] 24 root - INFO - Divide by zero error
+[2025-01-11 16:36:57,803] 25 root - INFO - Error occured in python script name [exception.py] line number [22] error message [division by zero]
